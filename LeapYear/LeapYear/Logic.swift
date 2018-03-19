@@ -9,7 +9,7 @@
 
 import Foundation
 class Utility{
-    func calculate(){
+    func findLeapYear(){
     print("Enter the year")
     if let input = readLine(){
         if let  year=Int(input)

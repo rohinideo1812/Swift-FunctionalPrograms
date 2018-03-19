@@ -1,17 +1,19 @@
-//
-//  main.swift
-//  PowerOf2
-//
-//  Created by BridgeLabz on 14/03/18.
-//  Copyright © 2018 BridgeLabz. All rights reserved.
-//
+/******************************************************************************
+ *  Purpose: Prints the power of 2
+ *
+ *  @author Rohini
+ *  @version 4.0
+ *  @since   15-03-2018
+ *
+ ******************************************************************************/
+
 
 import Foundation
 
 print("Enter the range")
 if let range=readLine(){
     if let number=Int(range){
-        for var i in 0...number{
+        for i in 0...number{
             
             print("2 ^ \(i) = \(2*i)")
         }

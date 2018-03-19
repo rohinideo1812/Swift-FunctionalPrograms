@@ -1,10 +1,11 @@
-//
-//  main.swift
-//  Quadratic
-//
-//  Created by BridgeLabz on 15/03/18.
-//  Copyright © 2018 BridgeLabz. All rights reserved.
-//
+/******************************************************************************
+ *  Purpose: Determines the roots of a Quadratic Equation
+ *
+ *  @author Rohini
+ *  @version 4.0
+ *  @since   15-03-2018
+ *
+ ******************************************************************************/
 
 import Foundation
 var utility:Utility=Utility()

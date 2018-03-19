@@ -1,10 +1,13 @@
-//
-//  main.swift
-//  ReplaceString
-//
-//  Created by BridgeLabz on 14/03/18.
-//  Copyright © 2018 BridgeLabz. All rights reserved.
-//
+/******************************************************************************
+ *  Purpose: Replaces the string "Hello UserName, How are you?" with user entered string
+ *
+ *  @author Rohini
+ *  @version 4.0
+ *  @since   15-03-2018
+ *
+ ******************************************************************************/
+
+
 
 import Foundation
 var string1 = "Hello UserName, How are you?"

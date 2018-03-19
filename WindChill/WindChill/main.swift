@@ -1,10 +1,12 @@
-//
-//  main.swift
-//  WindChill
-//
-//  Created by BridgeLabz on 14/03/18.
-//  Copyright © 2018 BridgeLabz. All rights reserved.
-//
+/******************************************************************************
+ *  Purpose: Accepts temperature and velocity from user and prints the windchill.
+ *
+ *  @author Rohini
+ *  @version 4.0
+ *  @since   15-03-2018
+ *
+ ******************************************************************************/
+
 
 import Foundation
 var result:Double = 0.0

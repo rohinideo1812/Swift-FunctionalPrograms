@@ -1,11 +1,11 @@
-//
-//  main.swift
-//  HarmonicSeries
-//
-//  Created by BridgeLabz on 14/03/18.
-//  Copyright © 2018 BridgeLabz. All rights reserved.
-//
-
+/******************************************************************************
+ *  Purpose: Determines the value of Harmonic series
+ *
+ *  @author Rohini
+ *  @version 4.0
+ *  @since   15-03-2018
+ *
+ ******************************************************************************/
 import Foundation
 var sum=0.0
 print("Enter the range")
